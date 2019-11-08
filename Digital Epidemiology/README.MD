@@ -5,8 +5,25 @@ Project for digital epidemiology class
 LINK FOR THE DRAFT version of the report so we can work on it together:
 https://docs.google.com/document/d/1-RDHhVe4pr0A3Oghtv0e14O2oW_r2nI5u2TSMpR1cLo/edit?usp=sharing
 
+TO DO:
 
-DRAFT STEPS (Until she sends the text of the assignment):
+
+
+Banuska and Melis
+
+4. Compute the degree index and find the hubs (5% of the nodes with highest degree values)
+5. Compare hubs sets related to the two condition (cancer, normal) and identify the hubs characterizing only cancer tissue.
+
+
+
+
+
+
+
+
+
+
+DRAFT STEPS:
 
     - Download Data (Thyroid cancer data)  
     - Which genes are differentially expressed? Find them and show which and how many of them are
