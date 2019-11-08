@@ -2,6 +2,8 @@
 # DigitalEpidemiology
 Project for digital epidemiology class
 
+LINK FOR THE DRAFT version of the report so we can work on it together:
+https://docs.google.com/document/d/1-RDHhVe4pr0A3Oghtv0e14O2oW_r2nI5u2TSMpR1cLo/edit?usp=sharing
 
 
 DRAFT STEPS (Until she sends the text of the assignment):
