@@ -1,5 +1,5 @@
 # DigitalEpidemiology
-Projects for digital epidemiology and bionformatics
+Projects for Digital Epidemiology and Bioinformatics classes
 
 
 
