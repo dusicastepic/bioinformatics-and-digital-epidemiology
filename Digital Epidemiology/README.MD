@@ -3,7 +3,7 @@ Project for digital epidemiology class
 
    
 
-STEPS that wewre be performed in the project:
+STEPS that were be performed in the project:
 
 1. Download Data from https://portal.gdc.cancer.gov/ gene expression data (data category: Transcriptome Profiling; data type: Gene Expression Quantification; workflow type: HTSeq – FPKM) for Uterine Corpus Endometrial Carcinoma (Project ID: TCGA-UCEC) and select only patients for whom cancer and normal tissue files are available.
 
